@@ -1,2 +1,18 @@
-# portfolio
-Personal portfolio
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Resume</title>
+    <style>
+      html, body { height: 100%; margin: 0; }
+      .wrap { height: 100%; }
+      embed { width: 100%; height: 100vh; border: 0; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <embed src="resume.pdf" type="application/pdf" />
+    </div>
+  </body>
+</html>
